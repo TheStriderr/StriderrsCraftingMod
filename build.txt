@@ -1,0 +1,9 @@
+author = Striderr
+version = 1.1
+displayName = Striderr's Recipe Mod
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = false
+homepage = https://forums.terraria.org/index.php?threads/striderrs-recipe-mod.70897/

@@ -1,0 +1,5 @@
+Striderr's Recipe Mod (SRM) is a mod that (you guessed it) adds new recipes to the game. The first thought that someone may have when seeing this mod for the first time is, "This mod REALLY looks like a copy of IMKSushi's mod", while this is technically the case, this mod is taking a different route than IMK's mod. Unlike his mod, I'm aiming to give every collectible and piece of gear that isn't already craftable a recipe that fits in as well as possible with the base game. (IMK's mod has a more "grindy" method to obtaining previously uncraftable items which, in my opinion, doesn't blend in with vanilla terraria too well.)
+  
+Thanks and have fun!
+
+-Striderr
